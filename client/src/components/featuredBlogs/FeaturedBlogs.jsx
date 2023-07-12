@@ -29,8 +29,8 @@ const FeaturedBlogs = () => {
                 Mother Nature is the ultimate inspiration. When you're feeling sluggish, simply walking outside and getting fresh air can do wonders for your mood and outlook. 
                 </p>
                 <div className={classes.authorAndCreatedAt}>
-                  <span><span>Author:</span> Amrutha</span>
-                  <span><span>Created:</span>05-07-2023</span>
+                  <span><span>Author:</span> Nimisha</span>
+                  <span><span>Created:</span>11-07-2023</span>
                 </div>
               </div>
             </div>
@@ -44,8 +44,8 @@ const FeaturedBlogs = () => {
                 Nature is not a place to visit, it is home
                 </p>
                 <div className={classes.authorAndCreatedAt}>
-                  <span><span>Author:</span> Amrutha</span>
-                  <span><span>Created:</span> 05-07-2023</span>
+                  <span><span>Author:</span> Nimisha</span>
+                  <span><span>Created:</span> 11-07-2023</span>
                 </div>
               </div>
             </div>
@@ -57,8 +57,8 @@ const FeaturedBlogs = () => {
                 Some old-fashioned things like fresh air and sunshine are hard to beat.
                 </p>
                 <div className={classes.authorAndCreatedAt}>
-                  <span><span>Author:</span> Amrutha</span>
-                  <span><span>Created:</span> 05-07-2023</span>
+                  <span><span>Author:</span> Nimisha</span>
+                  <span><span>Created:</span> 11-07-2023</span>
                 </div>
               </div>
             </div>
